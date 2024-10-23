@@ -2,6 +2,12 @@
 <h1 align="center">Hi 👋, I'm Siba Prasad</h1>
 <h3 align="center">Passionate DevOps participants</h3>
 
+<div>
+    <p>
+      <img align="left" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif" />
+    </p>
+  </div>
+
 <p><img align="right" alt="coding" width="500" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/12/20123152/devops-cloud-computing.gif"></p>
 
 <h3 align="left">Connect with me:</h3>
@@ -20,12 +26,6 @@
   </div>
 
 <br></br>
-
-  <div>
-    <p>
-      <img align="left" alt="coding" width="400" height="200" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-  %20Connect-Product.gif" />
-    </p>
-  </div>
 </body>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siba-9439&" alt="siba-9439" /></p>
