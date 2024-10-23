@@ -15,6 +15,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siba-9439&show_icons=true&locale=en&layout=compact" alt="siba-9439" /></p>
 
-<p><img align="left" alt="coding" width="200" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif"></p>
-
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siba-9439&" alt="siba-9439" /></p>
+
+<p><img align="left" alt="coding" width="200" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif"></p>
