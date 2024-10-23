@@ -17,4 +17,4 @@
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siba-9439&" alt="siba-9439" /></p>
 
-<p><img align="left" alt="coding" width="500" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif"></p>
+<p><img align="left" alt="coding" width="400" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif"></p>
