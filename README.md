@@ -3,9 +3,9 @@
 <h3 align="center">Passionate DevOps participants</h3>
 <h2 align="center">
     Trained By: 
-    <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/imageedit_6_8068394322-3.png" width="90" />
+    <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/imageedit_6_8068394322-3.png" width="60" />
     <a href="https://github.com/RajinikanthVadla" target="_blank">#The Dragon
-        <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/output-onlinepngtools-2.png" width="100" />
+        <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/output-onlinepngtools-2.png" width="80" />
         <h2 align="center">
             <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/rajinikanth-smoky-formal-suit-glpgtj4m1ewzgwnb__1_-removebg-2.png" width="120" />
         </h2>
