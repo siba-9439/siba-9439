@@ -7,10 +7,16 @@
     <a href="https://github.com/RajinikanthVadla" target="_blank">#The Dragon
         <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/output-onlinepngtools-2.png" width="100" />
         <h2 align="center">
-            <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/rajinikanth-smoky-formal-suit-glpgtj4m1ewzgwnb__1_-removebg-2.png" width="150" />
+            <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/rajinikanth-smoky-formal-suit-glpgtj4m1ewzgwnb__1_-removebg-2.png" width="120" />
         </h2>
     </a>
 </h2>
+
+<div aling="center">
+    <p>
+      <img align="left" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif" />
+    </p>
+  </div>
 
 <p><img align="right" alt="coding" width="500" src="https://liveimages.algoworks.com/new-algoworks/wp-content/uploads/2022/12/20123152/devops-cloud-computing.gif"></p>
 
@@ -33,9 +39,3 @@
 </body>
 
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=siba-9439&" alt="siba-9439" /></p>
-
-<div aling="center">
-    <p>
-      <img align="left" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif" />
-    </p>
-  </div>
