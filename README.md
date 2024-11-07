@@ -1,13 +1,13 @@
-![logo](https://github.com/siba-9439/siba-9439/blob/main/Screenshot%202024-10-23%20150354.png)
+![logo](https://github.com/siba-9439/profile/blob/main/B.png)
 <h1 align="center">Hey, Siba this side</h1>
 <h3 align="center">Passionate DevOps participants</h3>
 <h2 align="center">
     Trained By: 
-    <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/imageedit_6_8068394322-3.png" width="60" />
+    <img align="center" src="https://github.com/siba-9439/profile/blob/main/1.png" width="60" />
     <a href="https://topmate.io/emergencytechops" target="_blank">#The Dragon
-        <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/output-onlinepngtools-2.png" width="80" />
+        <img align="center" src="https://github.com/siba-9439/profile/blob/main/2.png" width="80" />
         <h2 align="center">
-            <img align="center" src="https://github.com/siba-9439/siba-9439/blob/main/rajinikanth-smoky-formal-suit-glpgtj4m1ewzgwnb__1_-removebg-2.png" width="120" />
+            <img align="center" src="https://github.com/siba-9439/profile/blob/main/3.png" width="120" />
         </h2>
     </a>
 </h2>
