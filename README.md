@@ -1,6 +1,7 @@
 ![logo](https://github.com/siba-9439/profile/blob/main/B.png)
 <h1 align="center">Hey, Siba this side</h1>
 <h3 align="center">Passionate DevOps participants</h3>
+<!--
 <h2 align="center">
     Trained By: 
     <img align="center" src="https://github.com/siba-9439/profile/blob/main/1.png" width="60" />
@@ -11,7 +12,7 @@
         </h2>
     </a>
 </h2>
-
+-->
 <div aling="center">
     <p>
       <img align="left" src="https://cdn.prod.website-files.com/60898d847e50af179614f3d5/6535119a6047abfdf87d662e_Hero%20Animation%20-%20Connect-Product.gif" />
